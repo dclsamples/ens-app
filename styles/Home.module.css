@@ -15,6 +15,9 @@
   align-items: center;
   background-color:rgb(16, 65, 67);
 }
+.ens{
+  color:rgb(32, 163, 43);
+}
 
 .image {
   width: 70%;
